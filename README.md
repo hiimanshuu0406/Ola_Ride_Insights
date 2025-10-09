@@ -4,6 +4,14 @@
 This project was developed as part of my internship at Labmentix. The goal was to analyze OLA ride data to uncover insights into customer behavior, ride cancellations, driver performance, and revenue generation.
 The project involved data cleaning, SQL-based querying, Power BI visualizations, and an interactive Streamlit dashboard for real-time analytics and decision-making.
 
+**Dashboard 1**
+
+<img width="1400" height="700" alt="Image" src="https://github.com/user-attachments/assets/761ba4c7-b39a-44dd-8591-c15171982093" />
+
+**Dasboard 2**
+
+<img width="1400" height="700" alt="Image" src="https://github.com/user-attachments/assets/9b8eac04-3004-4689-b2da-015ab66f469a" />
+
 **💼 Business Problem**
 1. High number of ride cancellations by customers and drivers.
 2. Unclear trends in ratings and revenue performance across vehicle types.
