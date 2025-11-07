@@ -6,11 +6,11 @@ The project involved data cleaning, SQL-based querying, Power BI visualizations,
 
 **Dashboard 1**
 
-<img width="1400" height="700" alt="Image" src="https://github.com/user-attachments/assets/761ba4c7-b39a-44dd-8591-c15171982093" />
+<img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/761ba4c7-b39a-44dd-8591-c15171982093" />
 
 **Dasboard 2**
 
-<img width="1400" height="700" alt="Image" src="https://github.com/user-attachments/assets/9b8eac04-3004-4689-b2da-015ab66f469a" />
+<img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/9b8eac04-3004-4689-b2da-015ab66f469a" />
 
 **💼 Business Problem**
 1. High number of ride cancellations by customers and drivers.
